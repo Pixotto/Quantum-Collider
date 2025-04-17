@@ -1,7 +1,7 @@
 #  Quantum Collider: Subatomic Sandbox of the Standard Model
 
 **Autor:** Otto Marines Hernández  
-**Edad:** 17 años  
+**Fecha de nacimiento:** 8 de septiembre de 2007 
 **Tecnologías:** Python 3 · Pygame · Visualización en tiempo real
 
 
