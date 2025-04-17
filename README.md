@@ -16,7 +16,6 @@
 - Visualizar **fuerzas fundamentales** (electromagnética, fuerte y débil)
 - Formar **protones, neutrones y átomos estables**
 - Ver representaciones visuales de **orbitales s, p y d**
-- Modificar **números cuánticos (n, l)** en tiempo real
 - Observar **transiciones energéticas** con emisión/absorción de fotones
 
 
@@ -25,10 +24,9 @@
 El objetivo principal es **divulgar física moderna** desde una perspectiva accesible y visual. No busca precisión numérica ni simular teoría cuántica de campos, sino introducir de forma intuitiva los fundamentos del Modelo Estándar.
 
 
-##  Imágenes del simulador
+##  video tutorial del simulador:
 
-![Captura 1](ruta-a-tu-imagen.png)  
-![Captura 2](ruta-a-tu-otra-imagen.png)
+(https://youtu.be/Gt8CEyx73z8?si=sbgVkReWozWORsEX)
 
 
 ##  Código
