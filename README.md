@@ -25,7 +25,7 @@
 El objetivo principal es **divulgar física moderna** desde una perspectiva accesible y visual. No busca precisión numérica ni simular teoría cuántica de campos, sino introducir de forma intuitiva los fundamentos del Modelo Estándar.
 
 
-## 📸 Imágenes del simulador
+##  Imágenes del simulador
 
 ![Captura 1](ruta-a-tu-imagen.png)  
 ![Captura 2](ruta-a-tu-otra-imagen.png)
@@ -37,9 +37,9 @@ El código fuente se encuentra en un repositorio privado mientras continúa en d
 Por ahora, este repositorio está destinado a **divulgar el concepto del proyecto** y mostrar su estructura general.
 
 
-## 📬 Contacto
+##  Contacto
 
 Otto Marines Hernández  
-[Opcional: Correo electrónico o redes]
+correo: ottomarines106@gmail.com
 
 
