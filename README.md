@@ -23,10 +23,21 @@
 
 El objetivo principal es **divulgar física moderna** desde una perspectiva accesible y visual. No busca precisión numérica ni simular teoría cuántica de campos, sino introducir de forma intuitiva los fundamentos del Modelo Estándar.
 
+## visión a futuro
+
+En el futuro, planeo integrar:
+- Partículas virtuales del vacío cuántico
+- Interacción más realista de campos y bosones mediadores
+- Mejora de precisión para simulaciones tipo laboratorio virtual
+- Interacción entre átomos ionizados para crear moléculas.
+- Espín y espinores de fermiones y bosones, y como se crean los campos con estas características.
+- Oscilación de neutrinos
+- Añadir el Bosón de Higgs y permitir las Interacciones de las partículas con el campo de Higgs y cómo éste les otorga masa.
+
 
 ##  video tutorial del simulador:
 
-(https://youtu.be/Gt8CEyx73z8?si=sbgVkReWozWORsEX)
+https://youtu.be/Gt8CEyx73z8?si=sbgVkReWozWORsEX
 
 
 ##  Código
