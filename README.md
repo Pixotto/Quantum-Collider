@@ -4,13 +4,11 @@
 **Edad:** 17 años  
 **Tecnologías:** Python 3 · Pygame · Visualización en tiempo real
 
-===
 
 ##  ¿Qué es este proyecto?
 
 *Quantum Collider* es un simulador interactivo tipo sandbox que representa partículas subatómicas, fuerzas fundamentales y estructuras atómicas de manera visual, lúdica y educativa. Fue desarrollado con el objetivo de acercar los conceptos del Modelo Estándar a estudiantes y curiosos sin formación técnica, a través de una experiencia libre y experimental.
 
-===
 
 ##  ¿Qué se puede hacer en el simulador?
 
@@ -21,32 +19,27 @@
 - Modificar **números cuánticos (n, l)** en tiempo real
 - Observar **transiciones energéticas** con emisión/absorción de fotones
 
-===
 
 ##  Propósito
 
 El objetivo principal es **divulgar física moderna** desde una perspectiva accesible y visual. No busca precisión numérica ni simular teoría cuántica de campos, sino introducir de forma intuitiva los fundamentos del Modelo Estándar.
 
-===
 
 ## 📸 Imágenes del simulador
 
 ![Captura 1](ruta-a-tu-imagen.png)  
 ![Captura 2](ruta-a-tu-otra-imagen.png)
 
-===
 
 ##  Código
 
 El código fuente se encuentra en un repositorio privado mientras continúa en desarrollo.  
 Por ahora, este repositorio está destinado a **divulgar el concepto del proyecto** y mostrar su estructura general.
 
-===
 
 ## 📬 Contacto
 
 Otto Marines Hernández  
 [Opcional: Correo electrónico o redes]
 
----
 
